@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on a project to clone Udemy.com website
 
-👯 I’m looking to collaborate and work in team
+👯 I’m love to collaborate and work together on projects in teams
 
 💬 I'm good at HTML5, CSS3, JavaScript, BootStrap5, and Java
 
