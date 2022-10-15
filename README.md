@@ -6,15 +6,15 @@
   
   <!--<img height='300px' src ='https://wallpaperaccess.com/full/7167570.png'>-->
   
- 🌱 I’m currently learning Full Stack Web Development
+  🌱 I’m currently mastering Full Stack Web Development
 
-🔭 I’m currently working on a project to clone Udemy.com website
+  🔭 I’m currently working on a project to clone Udemy.com website
 
-👯 I’m love to collaborate and work together on projects in teams
+  👯 I love to collaborate and work together on projects in teams
 
-💬 I'm good at HTML5, CSS3, JavaScript, BootStrap5, and Java
+  💬 I'm good at HTML5, CSS3, JavaScript, BootStrap5, and Java
 
-⚡ Fun fact: 12% of people dream in Black & White 
+  ⚡ Fun fact: 12% of people dream in Black & White 
   
   ---
   
