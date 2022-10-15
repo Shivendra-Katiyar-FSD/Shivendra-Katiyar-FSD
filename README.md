@@ -3,7 +3,7 @@
 <h2> Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 
-<img width ='32px' src ='https://img.icons8.com/color/2x/html-5.png'>
+<a><img width ='32px' src ='https://img.icons8.com/color/2x/html-5.png'></a>
 <img width ='32px' src ='https://img.icons8.com/color/2x/css3.png'>
 <img width ='32px' src ='https://img.icons8.com/color/2x/bootstrap.png'>
 <img width ='32px' src ='https://img.icons8.com/ios-filled/2x/javascript-logo.png'>
@@ -12,7 +12,7 @@
 <img width ='32px' src ='https://img.icons8.com/color/2x/mongodb.png'>
 <img width ='32px' src ='https://img.icons8.com/color/2x/java-coffee-cup-logo.png'>
 <img width ='32px' src ='https://img.icons8.com/color/2x/git.png'>
-//<img width ='32px' src =''>
+<!--<img width ='32px' src =''>-->
 
 
 
