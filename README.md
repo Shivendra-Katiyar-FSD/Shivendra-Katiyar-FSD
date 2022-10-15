@@ -24,8 +24,12 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivendra-Katiyar-FSD&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shivendra-Katiyar-FSD&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
+div align="center">
+   ---
    [![Github](https://img.shields.io/github/followers/Shivendra-Katiyar-FSD?label=Follow&style=social)](https://github.com/Shivendra-Katiyar-FSD)
    ![](https://komarev.com/ghpvc/?username=Shivendra-Katiyar-FSD&label=Visitors+Count&color=brightgreen)
 </div>
+
