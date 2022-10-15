@@ -47,7 +47,7 @@
 <br>
 <h2>🏆GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shivendra-Katiyar-FSD&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
