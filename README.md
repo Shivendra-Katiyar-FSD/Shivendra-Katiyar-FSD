@@ -2,7 +2,7 @@
 
 <h2> About Me</h2>
 
----
+
   
   <!--<img height='300px' src ='https://wallpaperaccess.com/full/7167570.png'>-->
   
@@ -16,7 +16,7 @@
 
 ⚡ Fun fact: Me gustan los girasoles.
   
-  
+  ---
 
 <h2> Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
