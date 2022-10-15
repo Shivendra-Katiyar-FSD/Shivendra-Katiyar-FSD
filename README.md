@@ -6,7 +6,7 @@
 <a><img width ='32px' src ='https://img.icons8.com/color/2x/html-5.png'></a>
 <img width ='32px' src ='https://img.icons8.com/color/2x/css3.png'>
 <img width ='32px' src ='https://img.icons8.com/color/2x/bootstrap.png'>
-<img width ='32px' src ='https://img.icons8.com/ios-filled/2x/javascript-logo.png'>
+<img width ='32px' src ='https://img.icons8.com/color/2x/javascript.png'>
 <img width ='32px' src ='https://img.icons8.com/fluency/2x/node-js.png'>
 <img width ='32px' src ='https://img.icons8.com/color/2x/my-sql.png'>
 <img width ='32px' src ='https://img.icons8.com/color/2x/mongodb.png'>
