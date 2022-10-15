@@ -6,15 +6,15 @@
   
   <!--<img height='300px' src ='https://wallpaperaccess.com/full/7167570.png'>-->
   
-  🔭 I’m currently working on Soy Estudiante
+ 🌱 I’m currently learning Full Stack Web Development
 
-🌱 I’m currently learning Git, Java y GitHub
+🔭 I’m currently working on a project to clone Udemy.com website
 
-👯 I’m looking to collaborate on Proyectos
+👯 I’m looking to collaborate and work in team
 
-💬 Ask me about Sql, Java, C#, JavaScript
+💬 I'm good at HTML5, CSS3, JavaScript, BootStrap5, and Java
 
-⚡ Fun fact: Me gustan los girasoles.
+⚡ Fun fact: 12% of people dream in Black & White 
   
   ---
 
