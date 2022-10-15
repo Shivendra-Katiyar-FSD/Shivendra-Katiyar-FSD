@@ -27,9 +27,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
    ---
    [![Github](https://img.shields.io/github/followers/Shivendra-Katiyar-FSD?label=Follow&style=social)](https://github.com/Shivendra-Katiyar-FSD)
    ![](https://komarev.com/ghpvc/?username=Shivendra-Katiyar-FSD&label=Visitors+Count&color=brightgreen)
-</div>
 
