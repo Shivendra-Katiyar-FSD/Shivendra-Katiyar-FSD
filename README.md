@@ -16,7 +16,7 @@
 
 
 
-<h2>### ⚙️ &nbsp;GitHub Analytics</h2>
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
 ![Shivendra's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shivendra-Katiyar-FSD&theme=noctis-minimus)
 
 | ![Shivendra's github stats](https://github-readme-stats.vercel.app/api?username=Shivendra-Katiyar-FSD&show_icons=true&theme=tokyonight) | ![Shivendra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivendra-Katiyar-FSD&theme=tokyonight) |
