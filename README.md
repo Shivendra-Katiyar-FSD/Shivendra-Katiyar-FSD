@@ -1,8 +1,11 @@
 <h1 align="center"> Hello, I'm Shivendra Katiyar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<h2> About Me
-  <p>1</p>
-  <p>2</p>
+<h2> About Me</h2>
+
+---
+  
+  <!--<img height='300px' src ='https://wallpaperaccess.com/full/7167570.png'>-->
+  
   🔭 I’m currently working on Soy Estudiante
 
 🌱 I’m currently learning Git, Java y GitHub
@@ -12,7 +15,8 @@
 💬 Ask me about Sql, Java, C#, JavaScript
 
 ⚡ Fun fact: Me gustan los girasoles.
-  <img height='300px' src ='https://wallpaperaccess.com/full/7167570.png'></h2>
+  
+  
 
 <h2> Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
